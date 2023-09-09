@@ -1,0 +1,11 @@
+IdUsuario ;Geoposición; Lunes; Martes; Miércoles; Jueves; Viernes; Tipo Arsenal
+XX;01-Coord_North;01-02; ; ; ; ; abcd
+xx;07-Coord_North; ; ; 03-06 ; ; ; abcd
+xx;02-Coord_East ; ;02-04; ; ; ; ab
+XX;05-Coord_North; ; ; ; ;05-10; abcdtabcdtabcdt
+XX;04-Coord_East ; ; ; ;04-08; ; abcdabcdabcdabcd
+xx;07-Coord_North; ; ;03-06; ; ; bcd
+XX;04-Coord_East ; ; ; ;04-08; ; abcdabcdabcdabcd
+XX;04-Coord_East ; ; ; ;04-08; ; abcdabcdabcdabcd
+XX;04-Coord_East ; ; ; ;04-08; ; abcdabcdabcdabcd
+xx;07-Coord_North; ; ; 03-06 ; ; ; abcd

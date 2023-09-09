@@ -1,0 +1,11 @@
+CREATE TABLE USUARIOS (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    NombreUser TEXT NOT NULL,
+    password TEXT NOT NULL
+);
+
+INSERT INTO USUARIOS (NombreUser, password) VALUES ('profe', '827ccb0eea8a706c4c34a16891f84e7b');
+INSERT INTO USUARIOS (NombreUser, password) VALUES ('pepito', '348dc21a8acf9658140e0536eb14783d');
+INSERT INTO USUARIOS (NombreUser, password) VALUES ('jasmannyjumbo', 'b420c4086da2af1ebd8460455a27af68');
+
+SELECT * FROM USUARIOS;
